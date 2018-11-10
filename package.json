@@ -1,0 +1,25 @@
+{
+  "name": "is-socket-reset-error",
+  "version": "0.1.0",
+  "description": "Checks if the provided error is socket reset error.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyurl/is-socket-reset-error.git"
+  },
+  "keywords": [
+    "socket",
+    "reset",
+    "error"
+  ],
+  "author": "Ayon Lee <i@hyurl.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyurl/is-socket-reset-error/issues"
+  },
+  "homepage": "https://github.com/hyurl/is-socket-reset-error#readme"
+}
