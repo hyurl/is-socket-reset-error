@@ -1,6 +1,6 @@
 {
   "name": "is-socket-reset-error",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Checks if the provided error is socket reset error.",
   "main": "index.js",
   "types": "index.d.ts",
